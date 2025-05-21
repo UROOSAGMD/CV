@@ -1,0 +1,226 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+/* section 1 */
+.pg{
+    background-color: black;
+    height: 875px;
+    width: 790px;
+   position: relative;
+   left: 300px;
+   top: 50px;
+   border: 2px solid gray;
+   box-shadow: 2px 2px 2px;
+   }
+.main{
+    display: flex;
+    justify-content: center;
+    
+}
+.name{
+    height: 220px;
+    width: 460px;
+    padding: 20px 40px;
+    background-color: yellow;
+    
+}
+.name h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.name h2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 15px;
+    bottom: 40px;
+    background-color: black;
+    color: yellow;
+    height: 30px;
+    width: 180px;
+}
+.name p{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 30px;
+}
+.picture img{
+    height: 260px;
+    width: 250px;
+    
+}
+.mid{
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+}
+/* section 2 */
+/* .mid1 */
+.mid1{
+     height: 610px;
+    width: 290px;
+    background-color: black;
+}
+
+.folow{
+    background-color: black;
+    color: white;
+    height: 110px;
+    width: 260px;
+    padding: 5px 20px;
+}
+.folow h1{
+    position: relative;
+    top: 1px;
+    bottom: 5px;
+    color: white;
+}  
+.folow p{
+    color: white;
+    padding: 5px 5px;
+}
+.contect{
+     background-color: black;
+    color: white;
+    height: 150px;
+    width: 260px;
+    padding: 10px 20px;
+
+}
+.contect h1{
+    position: relative;
+    top: 1px;
+    bottom: 1px;
+    color: white;
+}
+.contect p{
+    padding: 5px 5px;
+}
+.skill{
+       background-color: black;
+    color: white;
+    height: 150px;
+    width: 260px;
+    padding: 10px 20px;
+}
+.skill h1{
+     position: relative;
+    top: 5px;
+    bottom: 1px;
+    color: white;
+}
+.skill p{
+    padding: 5px 5px; 
+}
+.hobbies{
+    background-color: black;
+    color: white;
+    height: 130px;
+    width: 260px;
+    padding: 10px 20px;
+}
+.hobbies h1{
+     position: relative;
+    top: 5px;
+    bottom: 5px;
+    color: white;
+}
+.hobbies p{
+    padding: 5px 5px; 
+
+}
+/* mid2 */
+.mid2{
+ position: relative;
+background-color: black;
+ width: 500px;
+ height: 610px;
+
+}
+.education{
+    
+    position: relative;
+    left: 20px;
+    top: 10px;
+    bottom: 50px;
+    height: 190px;
+    width: 490px;
+    
+}
+.education h1{
+    color: white;
+
+}
+.education h3{
+    color: yellow;
+    position: relative;
+    top: 5px;
+    bottom: 5px;
+}
+.education p{
+    position: relative;
+    top:10px;
+    bottom: 5px;
+    color: white;
+    padding: 2px 2px;
+}
+.experience{
+    
+    position: relative;
+    left: 20px;
+    top: 30px;
+    bottom: 10px;
+    height: 190px;
+    width: 490px;
+    padding: 4px 4px;
+}
+.experience h1{
+    color: white;
+
+}
+.experience h3{
+    color: yellow;
+    position: relative;
+    top: 15px;
+    bottom: 0px;
+}
+.experience p{
+    position: relative;
+    top: 15px;
+    bottom: 5px;
+    color: white;
+    padding: 2px 2px;
+}
+.il{
+    display: flex;
+    gap: 130px;
+    
+    color: white;
+    position: relative;
+    left: 20px;
+    top: 40px;
+    height: 180px;
+    width: 480px;
+}
+.interest h1{
+position: relative;
+top: 10px;
+bottom: 10px;
+}
+.interest p{
+position: relative;
+top: 30px;
+bottom: 10px; 
+padding: 9PX 9PX;
+}
+.lanugage  h1{
+position: relative;
+top: 10px;
+bottom: 10px;
+}
+.lanugage  p{
+position: relative;
+top: 30px;
+bottom: 10px; 
+padding: 9PX 9PX;
+}
+
